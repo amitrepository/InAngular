@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "InAngular"
+    }
+  },
+  "defaultProject": "InAngular",
+  "cli": {
+    "analytics": false
+  }
 }
